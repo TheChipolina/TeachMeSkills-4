@@ -51,6 +51,7 @@
 
 .guides {
     height: 100vh;
+    margin-top: 20px;
 }
 
 .title {
@@ -91,4 +92,16 @@
     width: 599px; 
     height: 521px;
     align-self: center;
+}
+
+.title-2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.text-title-2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
 }
